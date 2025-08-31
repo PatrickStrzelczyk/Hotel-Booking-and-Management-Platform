@@ -27,4 +27,4 @@ The goal was to practice end-to-end project development  from analysis and plann
 ---
 
 ## Reflection
-This project provided valuable experience in applying theoretical knowledge to a real-world system, emphasizing the importance of clear documentation, planning, and risk awareness in building scalable, reliable applications.
+This project provided valuable experience in applying theoretical knowledge to a real world system, emphasizing the importance of clear documentation, planning, and risk awareness in building scalable, reliable applications.
